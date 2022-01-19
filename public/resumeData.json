@@ -1,0 +1,206 @@
+{
+  "main": {
+    "name": "Ayman Ali",
+    "occupation": "Front-End Developer",
+    "description": "I eat, sleep, and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I'm Ayman 👨🏽‍💻, a detail-oriented self-starter with more than 2 years experience in software development, app and website design, and project management. As a Frontend Software Developer, I've had the opportunity to lay the foundation of startups while also helping to build & scale their companies. I have a great track record of proposing solutions that enhance the goals and vision of clients and businesses. Along the journey, I've realised my passion existed in front end technologies and web development. I've made it my mission to mentor and assist those trying to find their way and break into the tech industry while also taking it upon myself to seek new challenges and embark on career-growth opportunities when possible. I deliver REAL VALUE by driving projects in deadline-driven environments from concept to completion and ensure the work assigned is done in a timely manner and within budgetary constraints.",
+    "contactmessage": "DISCUSS A PROJECT OR JUST WANT TO SAY HI? MY INBOX IS OPEN FOR ALL.",
+    "email": "aymanali180@gmail.com",
+    "address": {
+      "street": "W3B D3V",
+      "city": "Poughkeepsie",
+      "state": "New York"
+    },
+    "website": "https://nervous-stonebraker-34a966.netlify.app/",
+    "resumedownload": "https://drive.google.com/file/d/1XpP81ukquxKeT66RV5VyC7qqO9TU6ICW/view?usp=sharing",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "",
+        "className": "fa fa-google-plus"
+      },
+      {
+        "name": "facebook",
+        "url": "",
+        "className": "fa fa-youtube-play"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/a-ali-150377213/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/simplesolutionist",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Programming Languages & Technologies",
+    "work": [
+      {
+        "company": "BappaRides",
+        "title": "Frontend Developer",
+        "years": "September 2021 - Present",
+        "description": "▪ Revamped landing page and app interface of e-commerce site, optimizing cross-browser and multi-platform compatibility ▪ Designed 10-20 UI/UX prototypes and widgets using Figma and Adobe XD and assessed designs for technical feasibility ▪ Enhanced UX with responsive, dynamic elements and animations to improve checkout flow and conversion rates by 20%  ▪ Monitored and determined strategies to boost site performance by 18% by serving a script via CDN, CSS and JS minification ▪ Conducted market research and set up Google Analytics for metric tracking to improve customer engagement, traffic by 30%"
+      },
+       {
+        "company": "EzCaza (TREC LLC)",
+        "title": "Full Stack Software Developer Intern",
+        "years": "December 2020 - May 2021",
+        "description": "▪ Spearheaded new initiatives and 20+ features for a real-estate app that allows users to list property and make multiple offers ▪ Introduced interactive map feature to view areas surrounding properties and populate data from Miami-Dade County records ▪ Performed testing to ensure offer forms, personal, and transactional information is validated through ReactJS, Formik, and Yup while also determining strategies to follow SDLC ▪ Managed cross-functional Agile teams and stakeholders and oversaw product development from inception to implementation  ▪ Effectively connected frontend and backend with Django which sped up deployments and led to safer upgrades"
+      },
+      {
+        "company": "Gao Tek Inc.",
+        "title": "Virtual Tech Intern",
+        "years": "October 2020 - February 2021",
+        "description": "▪ Implemented product detail webpages, documented datasheets, integrated digital marketing, and ensured SEO enhancements led to an increase in company’s quarterly earnings by more than $300,000 ▪ Provided troubleshooting support to identify and resolve installation and user experience issues in timely manner ▪ Utilized communication skills in professional setting to serve and keep customers informed of progress during issue lifecycle"
+      },
+      {
+        "company": "SUNY New Paltz",
+        "title": "Web Programming & Assembly Language/Computer Architecture Tutor",
+        "years": "August 2019 - May 2020",
+        "description": "▪ Worked closely and assisted students review for exams and also feel comfortable and excited about topics covered ▪ Organized and maintained productive learning environment that improved project and exam performance by up to 20% ▪ Provided resume revamp services and mock interview assistance ▪ Kept track of progress and implemented methods suited to aid students personal goals"
+      }
+    ],
+    "education": [
+      {
+        "school": "Georgia Institute of Technology",
+        "degree": "Master's Degree, Computer Science",
+        "graduated": "May 2023"
+      },{
+        "school": "State University of New York at New Paltz",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "May 2021",
+        "description": "Graduated with Latin Honors (Cum Laude)"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "50%"
+      },
+      {
+        "name": "Java",
+        "level": "50%"
+      },
+      {
+        "name": "HTML",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "50%"
+      },
+      {
+        "name": "SQL",
+        "level": "50%"
+      },
+      {
+        "name": "PHP",
+        "level": "50%"
+      },
+      {
+        "name": "Linux",
+        "level": "50%"
+      },
+      {
+        "name": "Figma",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "COVID-19 Tracker (React JS)",
+        "category": "",
+        "image": "covid-19.jpg",
+        "url": "https://covid-19-app-17f14.web.app/"
+      },
+      {
+        "title": "Metaverse Web3.0 (React JS)",
+        "category": "",
+        "image": "metaverse.jpg",
+        "url": "https://metaverse-challenge-yt.vercel.app/"
+      },
+      {
+        "title": "Cryptopunk Web3.0 (React JS)",
+        "category": "",
+        "image": "crypto.jpg",
+        "url": "https://www.youtube.com/watch?v=yBDqoW0XiTU"
+      },
+      {
+        "title": "Uber Clone (React JS)",
+        "category": "",
+        "image": "uber.jpg",
+        "url": "https://www.youtube.com/watch?v=_jz_PBqJCUU"
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflix.jpg",
+        "url": "https://netflix-reactjs.herokuapp.com/"
+      },
+      {
+        "title": "Airbnb Clone (React JS)",
+        "category": "",
+        "image": "airbnb.jpg",
+        "url": "https://airbnb-clone-44382.web.app/"
+      },
+      {
+        "title": "Disney Clone (React JS)",
+        "category": "",
+        "image": "disney.jpg",
+        "url": "https://disney-clone-d1e27.web.app/"
+      },
+      {
+        "title": "Tesla Clone (React JS)",
+        "category": "",
+        "image": "tesla.jpg",
+        "url": "https://tesla-clone-reactjs.herokuapp.com/"
+      },
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "amazon.jpg",
+        "url": "https://amazon-2-yt-amber.vercel.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Ayman impressed us in the interview process and exceeded expectations throughout the internship program. His continued dedication to develop his software development skills speaks volumes of his character. He has shown that he has the ability to align his personal goals with that of the company and further develop his skills to accomplish the assigned tasks. One of the greatest qualities that he exhibits is his ambition to learn, test, and apply his knowledge. Ayman took it upon himself to work with the designers as well as the back end developers to make sure the front-end and back-end fit perfectly. He has participated with multiple teams and has contributed to each of their projects. He works well with others and is willing to do what it takes to get ahead. Without a doubt, I believe that Ayman Ali is an excellent candidate for your company and I highly recommend him without reservation.",
+        "user": "Albert Seara (CEO and Founder of TREC LLC)"
+      },
+      {
+        "text": " Ayman served as the anchor of our team and as a valued asset towards the successful completion of our website. He enabled us to set realistic goals along with meeting critical deadlines. He expressed great leadership qualities and was an avid contributor, constantly giving critical input towards the current task. He tackles independent projects very well without needing continuous supervision and always gets the job done on time. Ayman is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend!",
+        "user": "Tevin Skeete (CEO of BAPPARIDES)"
+      }
+    ]
+  }
+}
